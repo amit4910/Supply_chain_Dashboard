@@ -14,4 +14,26 @@
 ## Dataset Used
 - <a href="https://github.com/amit4910/Supply_chain_Dashboard/blob/main/CDACL-003-Supply%20Chain%20Analysis%20.docx">Supply chain data</a>
 
+## Key Performance Indicators (KPIs)
+- Revenue (per category and total)
+- Quantity Sold
+- Total SKUs per Category
+- Available Stock
+- Order Fulfillment Rate (%)
+- Average Defect Rate (%)
+- Supplier Contribution per SKU
+
+- Dashboard Interaction   <a href="https://github.com/amit4910/Supply_chain_Dashboard/blob/main/snapshot_supply_chain_dashboard.png">View Dashboard</a>
+
+## Process Overview
+- Data Collection: Gathered data on production, sales, inventory, suppliers, and quality metrics.
+
+- Dashboard Creation: Designed in Power BI using cards, maps, matrix tables, and bar charts.
+
+- Performance Segmentation: Categorized into Cosmetics, Haircare, and Skincare.
+
+- KPI Calculation: Calculated fulfillment, stock, defect metrics using DAX formulas.
+
+- Supplier Mapping: Linked SKUs to supplier-wise production for comparison.
+
 
