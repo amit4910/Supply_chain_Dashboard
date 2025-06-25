@@ -37,6 +37,8 @@
 - Supplier Mapping: Linked SKUs to supplier-wise production for comparison.
 
 ## Dashboard
+![snapshot_supply_chain_dashboard](https://github.com/user-attachments/assets/9f1173d9-a189-41d4-a7c5-e78d2f882194)
+
 
   
 
