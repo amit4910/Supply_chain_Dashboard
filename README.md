@@ -11,5 +11,7 @@
 
 - Optimize SKU-level planning and supplier selection.
 
-## Dataset
+## Dataset Used
+- <a href="https://github.com/amit4910/Supply_chain_Dashboard/blob/main/CDACL-003-Supply%20Chain%20Analysis%20.docx">Supply chain data</a>
+
 
