@@ -1,5 +1,5 @@
 # Supply_chain_Analysis (Interactive Dashboard Creation Using Power BI)
-##📌 Project Objectives
+📌 Project Objectives
 
 - Monitor product-wise supply chain performance across Cosmetics, Haircare, and Skincare.
 
