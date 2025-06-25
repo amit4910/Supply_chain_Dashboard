@@ -39,7 +39,38 @@
 ## Dashboard
 ![snapshot_supply_chain_dashboard](https://github.com/user-attachments/assets/9f1173d9-a189-41d4-a7c5-e78d2f882194)
 
+## Key Insights
+- Skincare has the highest revenue (₹2.41L) and best order fulfillment rate (85%).
 
+- Haircare leads in stock availability (7,990 units) but has the highest defect rate (2.50%).
+
+- Cosmetics shows the lowest order fulfillment rate (73.08%) and lowest revenue.
+
+- Supplier performance varies significantly across categories (e.g., Supplier 2 leads in Cosmetics).
+
+- SKU distribution indicates uneven dependency on specific suppliers.
+
+## Recommendation
+- Improve Cosmetics fulfillment by evaluating logistics and inventory planning.
+
+- Reduce Haircare defects through quality checks and supplier re-evaluation.
+
+- Diversify supplier base to avoid over-reliance on specific ones (e.g., Supplier 2).
+
+- Optimize high-performing SKUs in Skincare to maintain revenue growth.
+
+- Standardize supplier performance metrics for consistency.
+
+## Personal Suggestion
+- Add filters for time (monthly/quarterly) to track seasonal trends.
+
+- Use conditional formatting in tables for quick anomaly spotting.
+
+- Include forecasting visuals to support future inventory decisions.
+
+- Share the dashboard with procurement and production teams for cross-functional alignment.
+
+- Integrate alerts/thresholds for low stock or high defect rates.
   
 
 
